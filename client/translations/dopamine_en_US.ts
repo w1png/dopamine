@@ -3471,6 +3471,14 @@ Already installed containers were found on the server. All installed containers 
 <context>
     <name>PageSetupWizardConfigSource</name>
     <message>
+        <source>Press OK to type a frkn:// link or an activation key</source>
+        <translation>Press OK to type a frkn:// link or an activation key</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Paste</translation>
+    </message>
+    <message>
         <location filename="../ui/qml/Pages2/PageSetupWizardConfigSource.qml" line="485"/>
         <source>Subscription loaded</source>
         <translation>Subscription loaded</translation>

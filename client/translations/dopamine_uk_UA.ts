@@ -3554,6 +3554,14 @@ Already installed containers were found on the server. All installed containers 
 <context>
     <name>PageSetupWizardConfigSource</name>
     <message>
+        <source>Press OK to type a frkn:// link or an activation key</source>
+        <translation>Натисніть OK, щоб ввести посилання frkn:// або ключ активації</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>Вставити</translation>
+    </message>
+    <message>
         <location filename="../ui/qml/Pages2/PageSetupWizardConfigSource.qml" line="401"/>
         <source>File with connection settings</source>
         <translation>Файл з налаштуваннями підключення</translation>
